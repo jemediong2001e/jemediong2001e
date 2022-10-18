@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jemediong2001e
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning C programming language and later would venture into python
-- 💞️ I’m looking to collaborate on someone of the same goal
+- 💞️ I’m looking to collaborate with someone of the same goal
 - 📫 How to reach me at jemediong2001@gmail.com
 
 <!---
